@@ -1,0 +1,42 @@
+*{
+        margin: 0;
+        padding: 0;
+}
+/* container --> */
+.container{
+        text-align: center;
+        /* background-color: aqua; */
+}
+
+/* heading of calc */
+h1{
+        margin: 5px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+/* calculator ---> body */
+.calculator{
+        display: inline-block;
+        padding: 12px;
+        background-color:rgb(0, 255, 115);
+}
+table{
+        margin: auto;
+}
+input{
+        font-size: 23px;
+        padding: 8px 24px;
+        margin: 5px 0;
+        color: white;
+        background-color: rgb(0, 88, 40);
+        outline: none;
+}
+button{
+        background-color: white;
+        padding: 10px 11px;
+        margin: 5px; 
+        font-size: 27px;
+        height: 54px;
+        width: 74px;
+}
+/* calculator ---> body */
